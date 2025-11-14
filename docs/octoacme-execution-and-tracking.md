@@ -38,3 +38,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Release Manager assigned for upcoming releases
+- [ ] Quality Lead engaged during release cycles
+- [ ] Release checklist reviewed (see [docs/templates/release-checklist.md](templates/release-checklist.md))
+
+For detailed role responsibilities during releases, refer to [OctoAcme Roles and Personas](octoacme-roles-and-personas.md), particularly the Release Manager and Quality Lead roles who coordinate release activities and ensure quality standards are met.
