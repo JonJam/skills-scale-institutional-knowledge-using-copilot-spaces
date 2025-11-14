@@ -38,5 +38,29 @@ Incident Communication
 - Post-incident blameless retrospective scheduled
 
 ## Escalation Paths
-- Team-level -> PM -> Product Lead -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security on-call
+
+Use the [Risk Escalation Template](templates/risk-escalation-template.md) for weekly status updates and escalations.
+
+### Three-Level Escalation Contact Pattern
+
+**Level 1: Team-Level Triage**
+- Contact: Development team, QA, immediate team leads
+- Response time: Same day
+- Use for: Technical blockers, dependency issues, minor scope questions
+
+**Level 2: Program Management**
+- Contact: Project Manager → Product Manager → Product Lead
+- Response time: Within 24 hours  
+- Use for: Cross-team dependencies, resource constraints, timeline risks, scope changes
+
+**Level 3: Executive Sponsor**
+- Contact: Product Lead → Sponsor / Senior Leadership
+- Response time: Within 4 hours for critical issues
+- Use for: Budget approval, organizational blockers, strategic decisions, customer escalations
+
+**Security Incidents**
+- Contact: Security on-call (via incident management system)
+- Response time: Immediate
+- Use for: Security vulnerabilities, data breaches, compliance issues
+
+For detailed escalation request format and weekly status template, see [docs/templates/risk-escalation-template.md](templates/risk-escalation-template.md).

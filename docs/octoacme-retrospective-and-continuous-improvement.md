@@ -20,6 +20,11 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
 - Review outstanding actions in the weekly PM sync
+- Use the [Retrospective Action Template](templates/retrospective-action-template.md) to convert findings into trackable backlog issues
+- Track action items in the project board and report progress weekly
+- Close action items only when success criteria are met
+
+For detailed action item format including implementation notes, dependencies, and tracking, see [docs/templates/retrospective-action-template.md](templates/retrospective-action-template.md).
 
 ## Example Action Item Template
 - Title:
